@@ -10,10 +10,6 @@
 
 <!--    maven allows us to change the version of java we'd like to use -->
 
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-    </properties>
 
 <!--    maven allows us to use external dependencies from mvn repository.
         meaning, we're downloading java classes that other developers have written and can
